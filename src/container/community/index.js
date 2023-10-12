@@ -58,7 +58,7 @@ const createTAB = () => {
 
   const infoParagraph = createElement(
     'p',
-    'info__text',
+    'tab__text',
     TAB.text,
   )
 
